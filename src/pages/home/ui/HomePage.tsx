@@ -121,7 +121,7 @@ export function HomePage() {
           </div>
         </div>
       </section>
-      <Link className="home-story" to={STORIES[1].href}>
+      <Link className="home-story home-story--alt" to={STORIES[1].href}>
         <img src={STORIES[1].image} alt="" />
         <span className="home-story__copy">
           <span className="home-story__note">{STORIES[1].note}</span>

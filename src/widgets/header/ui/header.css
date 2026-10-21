@@ -22,15 +22,22 @@
   position: absolute;
   left: 50%;
   z-index: 1;
-  display: grid;
-  justify-items: center;
+  display: flex;
+  gap: 10px;
+  align-items: center;
   color: var(--color-heading);
   text-decoration: none;
   transform: translateX(-50%);
   pointer-events: auto;
 }
 
-.header__logo-mark,
+.header__logo-mark {
+  display: block;
+  width: 44px;
+  height: 44px;
+  object-fit: contain;
+}
+
 .header__logo-tagline {
   display: none;
 }
@@ -382,7 +389,13 @@
   .header__logo {
     position: static;
     flex: 1;
+    justify-content: center;
     transform: none;
+  }
+
+  .header__logo-mark {
+    width: 32px;
+    height: 32px;
   }
 
   .main-nav,
