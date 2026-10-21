@@ -132,12 +132,18 @@
 @media (max-width: 560px) {
   .footer {
     margin-top: 32px;
+    padding-bottom: env(safe-area-inset-bottom);
   }
 
   .footer__grid.container {
     grid-template-columns: minmax(0, 1fr);
-    gap: 28px;
-    padding-top: 40px;
-    padding-bottom: 36px;
+    gap: 22px;
+    padding-top: 28px;
+    padding-bottom: 24px;
+  }
+
+  .footer__bottom-inner.container {
+    padding-top: 18px;
+    padding-bottom: 20px;
   }
 }

@@ -197,6 +197,26 @@ textarea {
   body {
     font-size: 16px;
   }
+
+  .page {
+    padding-top: 16px;
+  }
+
+  .page-title {
+    max-width: none;
+    margin-bottom: 18px;
+    font-size: clamp(1.65rem, 7vw, 2.15rem);
+    line-height: 1.12;
+  }
+
+  .section-title {
+    font-size: clamp(1.35rem, 5.5vw, 1.7rem);
+    line-height: 1.15;
+  }
+
+  .section-head {
+    margin-bottom: 18px;
+  }
 }
 
 @keyframes badge-in {

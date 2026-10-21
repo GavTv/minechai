@@ -38,3 +38,28 @@
   color: var(--color-muted);
   overflow-wrap: anywhere;
 }
+
+@media (max-width: 700px) {
+  .breadcrumbs {
+    padding: 8px 0 10px;
+    font-size: 12px;
+  }
+
+  .breadcrumbs__list {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+
+  .breadcrumbs__list::-webkit-scrollbar {
+    display: none;
+  }
+
+  .breadcrumbs__item {
+    flex: none;
+  }
+
+  .breadcrumbs__item + .breadcrumbs__item::before {
+    margin: 0 6px;
+  }
+}

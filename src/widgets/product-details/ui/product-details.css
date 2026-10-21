@@ -142,17 +142,22 @@
 @media (max-width: 860px) {
   .product-details__top {
     grid-template-columns: minmax(0, 1fr);
-    gap: 22px;
+    gap: 16px;
   }
 
   .product-details__gallery {
-    max-width: 420px;
+    max-width: none;
+    padding: 8px;
   }
 }
 
 @media (max-width: 480px) {
   .product-details__title {
-    font-size: 1.4rem;
+    font-size: 1.35rem;
+  }
+
+  .product-details .price--lg .price__current {
+    font-size: 1.5rem;
   }
 
   .product-details .price--lg {
@@ -165,5 +170,12 @@
 
   .product-details .add-to-cart__submit {
     flex: 1;
+    min-width: 0;
+  }
+
+  .product-details__lead {
+    margin-top: 18px;
+    padding-top: 16px;
+    font-size: 15px;
   }
 }

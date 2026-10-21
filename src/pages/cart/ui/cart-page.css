@@ -139,6 +139,10 @@
   }
 
   .cart-table__image { grid-area: image; width: auto; }
+  .cart-table__image .product-image {
+    width: 64px;
+    height: 64px;
+  }
   .cart-table__name { grid-area: name; }
   .cart-table__price { grid-area: price; }
   .cart-table__qty { grid-area: qty; }

@@ -62,6 +62,10 @@
 
   .feature {
     min-height: 0;
-    padding: 18px 0;
+    padding: 14px 0;
+  }
+
+  .feature__title {
+    font-size: 1.2rem;
   }
 }

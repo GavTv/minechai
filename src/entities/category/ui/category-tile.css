@@ -64,3 +64,18 @@
 .category-tile--text .category-tile__name {
   max-width: none;
 }
+
+@media (max-width: 700px) {
+  .category-tile {
+    gap: 8px;
+  }
+
+  .category-tile__image {
+    border-radius: 12px;
+  }
+
+  .category-tile__name {
+    font-size: 0.95rem;
+    line-height: 1.2;
+  }
+}

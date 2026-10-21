@@ -153,3 +153,39 @@
   color: var(--color-muted);
   font-size: 13px;
 }
+
+@media (max-width: 720px) {
+  .product-card__content {
+    gap: 4px;
+    padding: 10px 8px 4px;
+  }
+
+  .product-card__category {
+    min-height: 0;
+    font-size: 12px;
+  }
+
+  .product-card__title {
+    margin-bottom: 2px;
+    font-size: 0.98rem;
+    line-height: 1.2;
+  }
+
+  .product-card__title a {
+    min-height: 0;
+  }
+
+  .variant-row {
+    min-height: 40px;
+    padding: 6px 0;
+  }
+
+  .variant-row__sku {
+    display: none;
+  }
+
+  .variant-row .add-variant {
+    width: 36px;
+    height: 36px;
+  }
+}

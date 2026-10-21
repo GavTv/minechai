@@ -22,6 +22,8 @@ export function ProductImage({ src, alt, className = '', loading = 'lazy' }: Pro
       alt={alt}
       width={400}
       height={400}
+      sizes="(max-width: 720px) 50vw, (max-width: 1100px) 33vw, 240px"
+      decoding="async"
       loading={loading}
       onError={() => {
         if (src && broken !== src) setBroken(src);

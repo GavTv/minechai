@@ -221,25 +221,75 @@
     aspect-ratio: 16 / 10;
   }
 
+  .home-posters {
+    margin-top: 36px;
+    padding: 28px 0 36px;
+  }
+
+  .home-posters .section-title {
+    font-size: 1.7rem;
+  }
+
   .home-posters .product-grid > li {
-    flex-basis: 86%;
+    flex-basis: 78%;
+  }
+
+  .home-rail {
+    padding: 12px 0 18px;
+  }
+
+  .home-rail .category-sidebar__list {
+    padding-inline: 16px;
   }
 
   .home-rail .category-sidebar__list > li {
-    flex-basis: 46%;
+    flex-basis: 42%;
   }
 
   .home-rail .category-sidebar__link {
-    height: 210px;
+    height: 176px;
+    padding: 10px 10px 12px;
+  }
+
+  .home-rail .category-sidebar__name {
+    font-size: 14px;
   }
 
   .home-rail .strip-arrow {
-    width: 36px;
-    height: 36px;
+    display: none;
   }
 
   .home-quotes__track li {
     flex-basis: 86%;
+  }
+
+  .home-story {
+    min-height: 220px;
+  }
+
+  .home-story__copy {
+    max-width: none;
+    padding: 20px 16px 18px;
+  }
+
+  .home-story__title {
+    font-size: 1.45rem;
+    line-height: 1.12;
+  }
+
+  .home-video__media {
+    height: 220px;
+  }
+
+  .home-video__copy {
+    right: 16px;
+    bottom: 16px;
+    left: 16px;
+  }
+
+  .home-video__name {
+    font-size: 1.55rem;
+    line-height: 1.1;
   }
 }
 
