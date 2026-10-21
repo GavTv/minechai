@@ -62,44 +62,42 @@ export function Header() {
               <span className="header__logo-tagline">{SITE.tagline}</span>
             </Link>
 
-            <div className="header__end">
-              <nav className="main-nav" aria-label="Основное меню">
-                <ul className="main-nav__list">
-                  <NavItems items={MAIN_NAV} />
-                  <li className="main-nav__item">
-                    <button
-                      className={`main-nav__link main-nav__search ${searchOpen ? 'is-open' : ''}`}
-                      type="button"
-                      aria-expanded={searchOpen}
-                      onClick={() => setSearchOpen((open) => !open)}
-                    >
-                      Поиск
-                    </button>
-                  </li>
-                </ul>
-              </nav>
+            <nav className="main-nav" aria-label="Основное меню">
+              <ul className="main-nav__list">
+                <NavItems items={MAIN_NAV} />
+                <li className="main-nav__item">
+                  <button
+                    className={`main-nav__link main-nav__search ${searchOpen ? 'is-open' : ''}`}
+                    type="button"
+                    aria-expanded={searchOpen}
+                    onClick={() => setSearchOpen((open) => !open)}
+                  >
+                    Поиск
+                  </button>
+                </li>
+              </ul>
+            </nav>
 
-              <div className="header__actions">
-                <button className="header__icon-button header__burger" type="button" aria-label="Открыть меню" onClick={() => setMenuOpen(true)}>
-                  <Icon name="menu" />
-                </button>
-                <Link
-                  className="header__icon-button"
-                  to={session ? '/account' : '/login'}
-                  aria-label={session ? 'Личный кабинет' : 'Вход в личный кабинет'}
-                >
-                  <Icon name="user" />
-                </Link>
-                <button
-                  className="header__icon-button header__cart"
-                  type="button"
-                  onClick={() => setCartOpen(true)}
-                  aria-label={count ? `Корзина: ${count} ${pluralize(count, ['товар', 'товара', 'товаров'])} на ${formatPrice(total)}` : 'Корзина пуста'}
-                >
-                  <Icon name="cart" />
-                  {count > 0 && <span className="header__cart-count" aria-hidden="true">{count}</span>}
-                </button>
-              </div>
+            <div className="header__actions">
+              <button className="header__icon-button header__burger" type="button" aria-label="Открыть меню" onClick={() => setMenuOpen(true)}>
+                <Icon name="menu" />
+              </button>
+              <Link
+                className="header__icon-button"
+                to={session ? '/account' : '/login'}
+                aria-label={session ? 'Личный кабинет' : 'Вход в личный кабинет'}
+              >
+                <Icon name="user" />
+              </Link>
+              <button
+                className="header__icon-button header__cart"
+                type="button"
+                onClick={() => setCartOpen(true)}
+                aria-label={count ? `Корзина: ${count} ${pluralize(count, ['товар', 'товара', 'товаров'])} на ${formatPrice(total)}` : 'Корзина пуста'}
+              >
+                <Icon name="cart" />
+                {count > 0 && <span className="header__cart-count" aria-hidden="true">{count}</span>}
+              </button>
             </div>
           </div>
           <div className="header__mobile-search">
