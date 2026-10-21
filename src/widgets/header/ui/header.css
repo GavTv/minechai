@@ -24,16 +24,21 @@
 }
 
 .header__logo {
-  position: absolute;
-  left: 50%;
-  z-index: 1;
   display: flex;
+  flex: none;
   gap: 10px;
   align-items: center;
   color: var(--color-heading);
   text-decoration: none;
-  transform: translateX(-50%);
-  pointer-events: auto;
+}
+
+.header__end {
+  display: flex;
+  flex: 1;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-end;
+  min-width: 0;
 }
 
 .header__logo-mark {
@@ -54,10 +59,6 @@
   letter-spacing: 0.04em;
   line-height: 1;
   text-transform: uppercase;
-}
-
-.main-nav--end {
-  margin-left: auto;
 }
 
 .header__actions {
@@ -389,13 +390,6 @@
 
   .header__bar-inner {
     min-height: 56px;
-  }
-
-  .header__logo {
-    position: static;
-    flex: 1;
-    justify-content: center;
-    transform: none;
   }
 
   .header__logo-mark {
