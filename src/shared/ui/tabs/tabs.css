@@ -1,0 +1,30 @@
+.tabs__list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.tabs__tab {
+  min-height: 44px;
+  padding: 10px 16px;
+  border: 0;
+  background: transparent;
+  color: var(--color-text);
+  font: inherit;
+  font-weight: 650;
+  cursor: pointer;
+  transition: background-color var(--t-hover) var(--ease-out), color var(--t-hover) var(--ease-out);
+}
+
+.tabs__tab:hover {
+  color: var(--color-heading);
+}
+
+.tabs__tab[aria-selected="true"] {
+  background: var(--color-accent);
+  color: var(--color-heading);
+}
+
+.tabs__panel {
+  padding: 24px 0 8px;
+}

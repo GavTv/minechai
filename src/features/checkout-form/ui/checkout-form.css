@@ -1,0 +1,30 @@
+.checkout-form {
+  display: grid;
+  gap: 18px;
+}
+
+.checkout-form__row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+}
+
+.checkout-form__group {
+  display: grid;
+  gap: 2px;
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.checkout-form__group legend {
+  margin-bottom: 6px;
+}
+
+.checkout-form .field__hint {
+  margin-top: -10px;
+}
+
+.checkout-form > .button {
+  justify-self: start;
+}

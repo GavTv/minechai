@@ -1,0 +1,32 @@
+.pagination {
+  margin-top: 28px;
+}
+
+.pagination__list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.pagination__link {
+  display: grid;
+  place-items: center;
+  min-width: 40px;
+  height: 40px;
+  padding: 0 8px;
+  border: 0;
+  border-radius: 0;
+  background: var(--color-surface);
+  color: var(--color-heading);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.pagination__link:hover,
+.pagination__link.is-current {
+  background: var(--color-accent);
+}

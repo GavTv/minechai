@@ -1,0 +1,21 @@
+.auth-required {
+  display: grid;
+  gap: 20px;
+  justify-items: start;
+  max-width: 640px;
+}
+
+.auth-required__icon {
+  width: 56px;
+  height: 56px;
+  padding: 12px;
+  border-radius: 50%;
+  background: var(--color-ivory);
+  color: var(--color-heading);
+}
+
+.auth-required__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}

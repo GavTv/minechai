@@ -1,0 +1,21 @@
+.product-page {
+  display: block;
+}
+
+.product-page__sidebar {
+  display: none;
+}
+
+.product-page__main {
+  min-width: 0;
+}
+
+@media (max-width: 1100px) {
+  .product-page {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .product-page__sidebar {
+    display: none;
+  }
+}

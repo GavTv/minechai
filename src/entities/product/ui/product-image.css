@@ -1,0 +1,23 @@
+.product-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1;
+  object-fit: contain;
+  mix-blend-mode: multiply;
+  transition: transform var(--t-ui) var(--ease-out);
+}
+
+.product-card:hover .product-image,
+.category-tile:hover .category-tile__image img {
+  transform: scale(1.035);
+}
+
+.product-image--empty {
+  display: grid;
+  place-items: center;
+  background: var(--color-option);
+  color: var(--color-muted);
+  font-size: 14px;
+  mix-blend-mode: normal;
+}

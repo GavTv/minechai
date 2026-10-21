@@ -1,0 +1,66 @@
+.category-tile {
+  display: grid;
+  justify-items: center;
+  gap: 14px;
+  height: 100%;
+  padding: 0;
+  background: transparent;
+  color: var(--color-heading);
+  font-weight: 560;
+  line-height: 1.25;
+  text-align: center;
+  text-decoration: none;
+}
+
+.category-tile__image {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  aspect-ratio: 1;
+  overflow: hidden;
+  border-radius: 18px;
+  background: #f4efe4;
+}
+
+.category-tile__image img {
+  width: 78%;
+  height: 78%;
+  object-fit: contain;
+  transition: transform var(--t-ui) var(--ease-out);
+}
+
+.category-tile:hover .category-tile__image img {
+  transform: scale(1.06);
+}
+
+.category-tile__name {
+  display: -webkit-box;
+  max-width: 22ch;
+  overflow: hidden;
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 560;
+  letter-spacing: -0.02em;
+  line-height: 1.25;
+  text-align: center;
+  text-decoration: none;
+  text-wrap: balance;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
+
+.category-tile--text {
+  align-content: center;
+  justify-items: center;
+  min-height: 168px;
+  padding: 18px;
+  border-radius: 18px;
+  background: #f5d730;
+}
+
+.category-page__tiles li:nth-child(3n + 2) .category-tile--text { background: #f0c7b0; }
+.category-page__tiles li:nth-child(3n) .category-tile--text { background: #d9c7f0; }
+
+.category-tile--text .category-tile__name {
+  max-width: none;
+}

@@ -1,0 +1,1565 @@
+[
+ {
+  "slug": "podarki",
+  "name": "Подарки",
+  "parent": "root",
+  "icon": null,
+  "image": null,
+  "children": [
+   "gotovye-podarki",
+   "podarochnaya-upakovka",
+   "otkrytki"
+  ],
+  "loaded": true,
+  "originalPages": 7,
+  "description": ""
+ },
+ {
+  "slug": "matcha",
+  "name": "Матча",
+  "parent": "root",
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": true,
+  "originalPages": 4,
+  "description": ""
+ },
+ {
+  "slug": "chernyy_tea",
+  "name": "Черный чай",
+  "parent": "root",
+  "icon": "/images/categories/1ae5fa83-44f1-46e2-83dc-76ecd24760f5.60x60.jpg",
+  "image": null,
+  "children": [
+   "naturalnyj-chernyj-chaj",
+   "aromatizirovannyj-chaj",
+   "chernyj-chaj-s-naturalnymi-dobavkami"
+  ],
+  "loaded": true,
+  "originalPages": 7,
+  "description": ""
+ },
+ {
+  "slug": "chaj-zelyonyj-s-chernym-aromatizirovannyj",
+  "name": "Чай зелёный с черным ароматизированный",
+  "parent": "root",
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": true,
+  "originalPages": 1,
+  "description": "<p>Черный или зеленый чай, что выбрать? Иногда мы стоим перед такой дилеммой. Каждый из этих напитков обладает своим характерным вкусом, ароматом и полезными свойствами. Смешение двух этих видов дает новый вкус, привносит иной аромат. А добавки к каждому виду такой смеси наделяют напиток уникальными вкусовыми качествами.</p>\n<h2>В чем преимущество чайной смеси?</h2>\n<p>В чем разница между черным и зелёный чаем, почему из одного чайного дерева получаются столь разные напитки? Секрет кроется в технологии, а именно ферментации. Зеленый чай практически не подвергается обработке, тогда как черный чай проходит полный процесс брожения. В результате каждый из этих видов имеет разные полезные вещества. В первом случае это простые _катехоламины_, во втором — более сложные _флавоны_. Обе эти группы веществ успешно борются со старением организма.</p>\n<p>Можно не сомневаться, <strong>а купить ароматизированный чай зелёный с черным</strong>,с натуральными ягодными, цветочными и фруктовыми добавками у нас в интернет-магазине.</p>"
+ },
+ {
+  "slug": "zelenyj-chaj",
+  "name": "Зеленый чай",
+  "parent": "root",
+  "icon": "/images/categories/75bb2e24-842d-4e43-a2a8-12d85a0815f4.60x60.jpg",
+  "image": null,
+  "children": [
+   "naturalnyj-zelenyj-chaj",
+   "aromatizirovannyj-chaj-zelenyy",
+   "zelenyj-chaj-s-naturalnymi-dobavkami"
+  ],
+  "loaded": true,
+  "originalPages": 7,
+  "description": ""
+ },
+ {
+  "slug": "krasnyj-chaj",
+  "name": "Красный чай",
+  "parent": "root",
+  "icon": "/images/categories/38829eb9-f3c7-4c7f-bfb3-088ffc264858.60x60.jpg",
+  "image": null,
+  "children": [
+   "krasnyj-kitajskij-chaj"
+  ],
+  "loaded": true,
+  "originalPages": 1,
+  "description": "<h2>Какой чай в Китае— красный?</h2>\n<p>Красным чаем в европейской и китайской традиции называют разные виды напитка: в Европе к этой разновидности относят каркадэ(из листьев гибискуса) или ройбуш(из мелких веток и листьев Аспалатуса линейного). Настоящий красный чай из Китая собирают с чайных кустов и подвергают высокой ферментации. При заваривании он приобретает насыщенный оттенок цвета заходящего солнца. Хотя чаинки мало отличаются от обычного черного, сорта красного чая можно определить по форме и необычному отблеску — «искре». Обычно листики скручены в длинные плотные трубочки, конусы, фонарики или цветы. Имеется множество сортов этого напитка, которые различаются регионами выращивания, технологией производства.</p>\n<h2>Особенности производства</h2>\n<p>Способ изготовления этого вида чая был выявлен случайно. Однажды при ферментации были превышены температура и влажность. Таким способом приобрел красный чай свойства, полностью раскрывшиеся при заваривании. Напиток оказался ароматным, а вкус — ярким и насыщенным. Со временем технологию усовершенствовали. Известно несколько способов производства:</p>\n<ul>\n<li>чайные молодые листья плотно скручивают, выдавливая сок;</li>\n<li>окуривают, после чего заваренный чай приобретает еле уловимый копченый аромат;</li>\n<li>подвергают ферментации только края листьев.</li>\n</ul>\n<h2>Польза красного чая</h2>\n<p>Активные вещества красного чая, польза которого доказана многочисленными исследованиями, помогают организму справиться со стрессами, замедляет процесс старения и разрушения клеток. Витамины группы В, провитамина А ускоряют обменные процессы.</p>\n<p>Весь этот кладезь полезных веществ вы получите, заказав и купив у нас любой из сортов элитного красного чая.</p>"
+ },
+ {
+  "slug": "belyj-chaj",
+  "name": "Белый чай",
+  "parent": "root",
+  "icon": "/images/categories/e0b3137a-98f6-49fa-b266-ceb28acf29b2.60x60.jpg",
+  "image": null,
+  "children": [
+   "kitajskij-chaj"
+  ],
+  "loaded": true,
+  "originalPages": 2,
+  "description": "<p>Выбрать подходящий сорт помогут отзывы о белом чае и описание продукта. Польза белого чая заключается в сохранности его природных свойств. Напиток богат минералами, содержит природные антиоксиданты, витамины, бодрит и утоляет жажду.</p>"
+ },
+ {
+  "slug": "zheltyj-chaj",
+  "name": "Желтый чай",
+  "parent": "root",
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": true,
+  "originalPages": 1,
+  "description": "<p>Изысканный по вкусу,желтый чай из Китая Хо Шань Хуань Я относится к слабо ферментированным настоям. Напиток известен с времен династии Тан. В ту эпоху он был привилегией лиц императорского двора. Производство хранилось в строжайшем секрете и оберегалось от любопытных глаз чужестранцев. Со временем технологии производства напитка была утеряна и восстановлена только в середине 70-х годов прошлого столетия.</p>\n<h2>Процесс изготовления</h2>\n<p>Производится желтый чай из отборных, плотных и неповрежденных почек. Сырье собирают по правилам «9 несрываемых», которые запрещают сбор влажного, незрелого, вялого, полураспустившегося и нестандартного сырья.</p>\n<p>Технология изготовления требует большого опыта и мастерства. Важно поддерживать заданную температуру и зорко следить за этапами ферментации. Именно на этом этапе желтый чай приобретает свойства, раскрывающиеся в процессе заваривания.</p>\n<h2>Аромат и вкусовые качества</h2>\n<p>Чем старше собранный чайный лист, тем меньше в нем растворимых соединений. Поэтому чай из почек обладает наибольшим количеством веществ, которые полностью раскрывают себя в напитке, придавая ему насыщенный янтарный цвет и сладковатый сливочный вкус с чуть заметной горчинкой. Уникальность аромата Хо Шань Хуань Я таится в еле уловимых копченых нотках и запахе свежескошенной травы.</p>\n<p>Сегодня желтый чай доступен не только императорам — вы можете заказать его у нас с доставкой.</p>"
+ },
+ {
+  "slug": "ulun",
+  "name": "Улун",
+  "parent": "root",
+  "icon": "/images/categories/308f6e40-247f-4989-a35b-8d9a6ad7a483.60x60.jpg",
+  "image": null,
+  "children": [
+   "naturalnyj-ulun",
+   "aromatizirovannyj-ulun"
+  ],
+  "loaded": true,
+  "originalPages": 7,
+  "description": ""
+ },
+ {
+  "slug": "puer",
+  "name": "Пуэр",
+  "parent": "root",
+  "icon": "/images/categories/01504_Hlo3kLZ.60x60.jpg",
+  "image": null,
+  "children": [
+   "shu-puer-chernyj",
+   "shen-puer-zelenyj"
+  ],
+  "loaded": true,
+  "originalPages": 1,
+  "description": "<p>Элитный китайский чай Пуэр обладает приятным выраженным вкусом, нюансы которого зависят от выдержки напитка. Он богат витаминами, аминокислотами и статинами. Последние влияют на уровень холестерина, снижая его, уменьшают риск возникновения инсульта и ишемической болезни сердца.</p>\n<h2>Особенности и польза Пуэр</h2>\n<p>В чае Пуэр содержится большое количество фенолокислот и кахетинов, предотвращающих раковые заболевания, оказывающих антиоксидантный и антибактериальный эффект. Напиток тонизирует за счет входящего в его состав теина и нормализует обмен веществ.</p>\n<h2>Полезные свойства:</h2>\n<ul>\n<li>улучшение пищеварения;</li>\n<li>омолаживающий эффект;</li>\n<li>выведение из организма ядов и токсинов;</li>\n<li>повышение активности;</li>\n<li>устранение запоров;</li>\n<li>нормализация работы печени;</li>\n<li>увеличение метаболизма;</li>\n<li>очищение от холестерина.</li>\n</ul>\n<p>Ежедневное употребление Пуэра уравновешивает умственную деятельность, улучшает концентрацию внимания. Воздействуя, как энергетик, он тонизирует и бодрит. Его нельзя пить перед сном, в период беременности и при гипертонии.</p>\n<h2>Виды Пуэр</h2>\n<p>В нашем магазине есть все виды напитка: рассыпной черный и зеленый Пуэр, прессованный чай в таблетках, кирпичиках, коллекционные сорта,Хей Ча и смола пуэра.</p>"
+ },
+ {
+  "slug": "travyanoj-chaj",
+  "name": "Травяной чай",
+  "parent": "root",
+  "icon": null,
+  "image": null,
+  "children": [
+   "na-klassicheskoj-osnove",
+   "na-osnove-grechishnogo-chaya-ku-cyao",
+   "na-osnove-ivan-chaya-kipreya",
+   "na-osnove-karkade-gibiskusa",
+   "na-osnove-shipovnika"
+  ],
+  "loaded": true,
+  "originalPages": 7,
+  "description": "<p>Купить травяной сбор категории премиум можно выгодно – чем крупнее заказ, тем больше экономия (при покупке от 500 г). Наслаждайтесь натуральными напитками и поддерживайте своё здоровье традиционными, проверенными временем и многими поколениями,рецептами чая с травами.</p>"
+ },
+ {
+  "slug": "dobavki-k-chayu",
+  "name": "Добавки к чаю",
+  "parent": "root",
+  "icon": null,
+  "image": null,
+  "children": [
+   "travy",
+   "yagody",
+   "frukty",
+   "cvety",
+   "poroshki"
+  ],
+  "loaded": true,
+  "originalPages": 7,
+  "description": ""
+ },
+ {
+  "slug": "fruktovyj-chaj",
+  "name": "Фруктовый чай",
+  "parent": "root",
+  "icon": null,
+  "image": null,
+  "children": [
+   "na-osnove-karkade-gibiskusa-1",
+   "na-osnove-fruktov-i-yagod"
+  ],
+  "loaded": true,
+  "originalPages": 4,
+  "description": ""
+ },
+ {
+  "slug": "mate-i-lapacho",
+  "name": "Мате и лапачо",
+  "parent": "root",
+  "icon": null,
+  "image": null,
+  "children": [
+   "mate",
+   "lapacho"
+  ],
+  "loaded": true,
+  "originalPages": 1,
+  "description": "<p>Южноамериканские индейцы подарили европейцам немало экзотических напитков. В их числе мате и лапачо, сырьем для которых служат древесные побеги и кора. Купите и попробуйте чаи мате и лапачо, чтобы убедиться в их уникальных качествах.</p>\n<h2>Происхождение древесных напитков</h2>\n<p>Мате – национальный напиток индейцев гуарани. Производится он из побегов парагвайского падуба, растущего также в Бразилии и Уругвае. Лапачо изготавливают из внутреннего слоя коры одноименного дерева. Инки называли лапачо, растущее в Бразилии, Аргентине и Уругвае, древом жизни.</p>\n<h2>Польза и качества, возможные противопоказания</h2>\n<p>Содержащиеся в побегах падуба микроэлементы и витамины обуславливают пользу чая мате. Употребление напитка помогает противостоять стрессам, улучшает память, он бодрит, полезен при диетах, после болезни. Целебные свойства чая лапачо используются при лечении заболеваний ЖКТ, ревматизме. Он освежает, тонизирует, успокаивает боль, обладает антибактериальными свойствами. Напиток богат минералами и природными антибиотиками, не содержит кофеина, а потому рекомендован детям и подросткам.</p>"
+ },
+ {
+  "slug": "rojbush-hanibush-i-karkade-gibiskus",
+  "name": "Ройбуш, ханибуш и каркаде (гибискус)",
+  "parent": "root",
+  "icon": null,
+  "image": null,
+  "children": [
+   "naturalnyj-rojbush-i-hanibush",
+   "aromatizirovannyj-rojbush-i-hanibush",
+   "karkade-gibiskus"
+  ],
+  "loaded": true,
+  "originalPages": 4,
+  "description": ""
+ },
+ {
+  "slug": "svyazannyj-chaj",
+  "name": "Связанный чай",
+  "parent": "root",
+  "icon": null,
+  "image": null,
+  "children": [
+   "naturalnyj-svyazannyj-cha",
+   "aromatizirovannyj-svyazannyj-chaj"
+  ],
+  "loaded": true,
+  "originalPages": 2,
+  "description": ""
+ },
+ {
+  "slug": "kofe",
+  "name": "Кофе",
+  "parent": "root",
+  "icon": "/images/categories/17ecb105-032f-4132-942a-9f5b126f24f2.60x60.jpg",
+  "image": null,
+  "children": [
+   "sublimirovannyj-kofe",
+   "espresso-smesi",
+   "mono-sorta",
+   "speshelti-kofe",
+   "filtr-kofe",
+   "aromatizirovannyj-kofe",
+   "zelenyj-kofe",
+   "kofe-v-drip-paketah",
+   "goryachij-shokolad"
+  ],
+  "loaded": true,
+  "originalPages": 7,
+  "description": ""
+ },
+ {
+  "slug": "siropy-i-toppingi",
+  "name": "Сиропы и топпинги",
+  "parent": "root",
+  "icon": null,
+  "image": null,
+  "children": [
+   "barline"
+  ],
+  "loaded": true,
+  "originalPages": 7,
+  "description": ""
+ },
+ {
+  "slug": "sladosti",
+  "name": "Сладости",
+  "parent": "root",
+  "icon": "/images/categories/94ee4278-6635-4b11-89c5-aa32f0d8933a.60x60.jpg",
+  "image": null,
+  "children": [
+   "sahar"
+  ],
+  "loaded": true,
+  "originalPages": 1,
+  "description": "<p>Сладости должны украшать стол и дополнять чаепитие, вкусное может быть полезным – приобретите вкусности из натуральных ягод, фруктов и других природных даров в нашем магазине.</p>\n<h2>Выбираем кондитерские изделия к чаю</h2>\n<p>Восточные сладости вкусны, но дары России не уступают в насыщенности вкусом и превосходят в пользе и количестве необходимых для человека микроэлементов. Вы можете выбрать и купить сладости онлайн из нескольких категорий:</p>\n<ol>\n<li>Зефир фруктовый и батончики из натуральных ягод и фруктов принесут не только удовольствие, но и витаминную пользу.</li>\n<li>Джем с фруктами и орехами из брусники, черники, клюквы и других полезных ресурсов. Кедровые орешки в сиропе или микс из нескольких ягод удивят приятным насыщенным вкусом и разнообразят рацион.</li>\n<li>Экомёд с наполнителями. Мёд объединяет разные вкусы и витамины, насыщая их и увеличивая пользу.</li>\n<li>Пряники козули и сахарные изделия.</li>\n</ol>\n<p>Особым украшением стола станет варенье из шишек сосны – необычайно вкусное, наполненное полезными веществами, оно укрепит иммунитет и удивит гостей. Со сладостями и премиум чаем чаепитие станет незабываемым и насыщенным.</p>"
+ },
+ {
+  "slug": "posuda-i-aksessuary",
+  "name": "Посуда и аксессуары",
+  "parent": "root",
+  "icon": "/images/categories/08100caa-e648-40cf-8f6e-f5e47af4f436.60x60.jpg",
+  "image": null,
+  "children": [
+   "dlya-chaya-i-kofe",
+   "dlya-servirovki",
+   "podstavki",
+   "instrumenty-pribory-i-aksessuary",
+   "upakovka"
+  ],
+  "loaded": true,
+  "originalPages": 7,
+  "description": ""
+ },
+ {
+  "slug": "gotovye-podarki",
+  "name": "gotovye-podarki",
+  "parent": "podarki",
+  "icon": null,
+  "image": "/images/categories/55b97136-1378-461b-97e2-c5d9b2de7f30.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "podarochnaya-upakovka",
+  "name": "podarochnaya-upakovka",
+  "parent": "podarki",
+  "icon": null,
+  "image": "/images/categories/0e111253-cab8-451b-92aa-37eedf73f9f7.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "otkrytki",
+  "name": "otkrytki",
+  "parent": "podarki",
+  "icon": null,
+  "image": "/images/categories/18b7e74f-f9d8-44f1-8d40-0d4d067a3da3.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "novyj-god-i-rozhdestvo",
+  "name": "Новый Год и Рождество",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "den-rozhdeniya",
+  "name": "День Рождения",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "23-fevralya",
+  "name": "23 февраля",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "lenty",
+  "name": "Ленты",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "kitajskij-klassicheskij-zelenyj-chaj",
+  "name": "Китайский классический зеленый чай",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "naturalnyj-chernyj-chaj",
+  "name": "naturalnyj-chernyj-chaj",
+  "parent": "chernyy_tea",
+  "icon": null,
+  "image": "/images/categories/b21a6920-1eab-4042-b136-b5a74702bbbd.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "aromatizirovannyj-chaj",
+  "name": "Ароматизированный черный чай",
+  "parent": "chernyy_tea",
+  "icon": null,
+  "image": "/images/categories/e45af123-3b44-45ca-8d49-8ae2311bcc9f.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "chernyj-chaj-s-naturalnymi-dobavkami",
+  "name": "Черный чай с натуральными добавками",
+  "parent": "chernyy_tea",
+  "icon": null,
+  "image": "/images/categories/5f04b4de-0198-4b3e-a405-c81059d428a8.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "vetnamskij-chaj",
+  "name": "Вьетнамский черный чай",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "bakinskij-chaj",
+  "name": "Бакинский черный чай",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "kenijskij-chaj",
+  "name": "Кенийский черный чай",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "naturalnyj-zelenyj-chaj",
+  "name": "naturalnyj-zelenyj-chaj",
+  "parent": "zelenyj-chaj",
+  "icon": null,
+  "image": "/images/categories/66a43476-ecc9-40fd-b859-ed56511c4731.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "aromatizirovannyj-chaj-zelenyy",
+  "name": "Ароматизированный зеленый чай",
+  "parent": "zelenyj-chaj",
+  "icon": null,
+  "image": "/images/categories/975ae6c6-aa9f-48df-b6e8-7baa42edccfe.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "zelenyj-chaj-s-naturalnymi-dobavkami",
+  "name": "Зеленый чай с натуральными добавками",
+  "parent": "zelenyj-chaj",
+  "icon": null,
+  "image": "/images/categories/e1cec2f2-8aba-4bfc-8f8f-c08857673705.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "uzbekskij-zelenyj-chaj",
+  "name": "Узбекский зеленый чай",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "kitajskij-zhasminovyj-chaj",
+  "name": "Китайский жасминовый чай",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "krasnyj-kitajskij-chaj",
+  "name": "Китайский красный чай",
+  "parent": "krasnyj-chaj",
+  "icon": null,
+  "image": "/images/categories/Flag_of_the_Peoples_Republic_of_China.svg_2.png",
+  "children": [
+   "naturalnyj-krasnyj-chaj",
+   "aromatizirovannyj-krasnyj-chaj",
+   "pressovannyj-krasnyj-chaj",
+   "smola-krasnogo-chaya"
+  ],
+  "loaded": true,
+  "originalPages": 4,
+  "description": ""
+ },
+ {
+  "slug": "kitajskij-chaj",
+  "name": "kitajskij-chaj",
+  "parent": "belyj-chaj",
+  "icon": null,
+  "image": "/images/categories/Flag_of_the_Peoples_Republic_of_China.svg_4.png",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "naturalnyj-belyj-chaj",
+  "name": "Натуральный белый чай",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "aromatizirovannyj-belyj-chaj",
+  "name": "Ароматизированный белый чай",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "svyazannyj-belyj-chaj",
+  "name": "Связанный белый чай",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "naturalnyj-ulun",
+  "name": "Натуральный улун",
+  "parent": "ulun",
+  "icon": null,
+  "image": "/images/categories/f2ed99ee-5fbe-4bbb-8410-f13d3f865df5.png",
+  "children": [
+   "kitajskij-ulun",
+   "tajvanskij-ulun",
+   "vetnamskij-ulun",
+   "yaponskij-ulun"
+  ],
+  "loaded": true,
+  "originalPages": 7,
+  "description": ""
+ },
+ {
+  "slug": "aromatizirovannyj-ulun",
+  "name": "Ароматизированный улун",
+  "parent": "ulun",
+  "icon": null,
+  "image": "/images/categories/3c1391b1-e47f-417b-95a8-3f69b8b61cac.png",
+  "children": [
+   "kitajskij-aromatizirovannyj-ulun",
+   "tajvanskij-aromatizirovannyj-ulun"
+  ],
+  "loaded": true,
+  "originalPages": 6,
+  "description": ""
+ },
+ {
+  "slug": "kitajskij-svetlyj-aromatizirovannyj-ulun",
+  "name": "Китайский светлый ароматизированный улун",
+  "parent": "kitajskij-aromatizirovannyj-ulun",
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "kitajskij-svetlyj-ulun",
+  "name": "Китайский светлый улун",
+  "parent": "kitajskij-ulun",
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "shu-puer-chernyj",
+  "name": "Шу пуэр (черный)",
+  "parent": "puer",
+  "icon": null,
+  "image": "/images/categories/a06abfa1-5e04-41b3-b01f-51bba21e9d69.jpg",
+  "children": [
+   "shu-puer-chernyj-presovannij",
+   "shu-puer-chernyj-rossipnoj",
+   "aromatizirovannyj-shu-puer",
+   "shu-puer-chernyj-v-bambuke",
+   "shu-puer-chernyj-v-tabletkah",
+   "smola-shu-puera-chernyj"
+  ],
+  "loaded": true,
+  "originalPages": 7,
+  "description": ""
+ },
+ {
+  "slug": "shen-puer-zelenyj",
+  "name": "Шен пуэр (зеленый)",
+  "parent": "puer",
+  "icon": null,
+  "image": "/images/categories/365460df-f080-44e1-acd8-5946df066aea.jpg",
+  "children": [
+   "shen-puer-zelenyj-presovannij",
+   "shen-puer-zelenyj-rassipnoj",
+   "shen-puer-zelenyj-v-bambuke",
+   "shen-puer-zelenyj-v-tabletkah",
+   "smola-shen-puera-zelenyj"
+  ],
+  "loaded": true,
+  "originalPages": 2,
+  "description": ""
+ },
+ {
+  "slug": "na-klassicheskoj-osnove",
+  "name": "На классической основе",
+  "parent": "travyanoj-chaj",
+  "icon": null,
+  "image": "/images/categories/c68a4737-18ff-472f-b238-ca63b56620cd.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "na-osnove-grechishnogo-chaya-ku-cyao",
+  "name": "На основе гречишного чая (Ку Цяо)",
+  "parent": "travyanoj-chaj",
+  "icon": null,
+  "image": "/images/categories/14c54d88-8acc-40f4-b2bc-ada9545d1b1c.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "na-osnove-ivan-chaya-kipreya",
+  "name": "na-osnove-ivan-chaya-kipreya",
+  "parent": "travyanoj-chaj",
+  "icon": null,
+  "image": "/images/categories/6ee46a1a-87e1-45b0-8a40-d652d78330f2.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "na-osnove-karkade-gibiskusa",
+  "name": "На основе каркаде (гибискуса)",
+  "parent": "travyanoj-chaj",
+  "icon": null,
+  "image": "/images/categories/f7861457-ca79-4d69-9192-ec23791f9aa0.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "na-osnove-shipovnika",
+  "name": "На основе шиповника",
+  "parent": "travyanoj-chaj",
+  "icon": null,
+  "image": "/images/categories/3af3cc26-0ba3-4274-90a4-3a37a8290abf.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "travy",
+  "name": "Травы",
+  "parent": "dobavki-k-chayu",
+  "icon": null,
+  "image": "/images/categories/b15546c0-01e8-45f8-99ea-8f86c4bca39f.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "yagody",
+  "name": "Ягоды",
+  "parent": "dobavki-k-chayu",
+  "icon": null,
+  "image": "/images/categories/b7409a62-683c-4ec3-8961-6a9b5c5b0d7c.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "frukty",
+  "name": "Фрукты",
+  "parent": "dobavki-k-chayu",
+  "icon": null,
+  "image": "/images/categories/7499a9e9-a63f-4608-af88-4b0e6274ffec.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "cvety",
+  "name": "cvety",
+  "parent": "dobavki-k-chayu",
+  "icon": null,
+  "image": "/images/categories/0a75d6f2-bee7-4515-98da-0f2e62bbebfd.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "poroshki",
+  "name": "poroshki",
+  "parent": "dobavki-k-chayu",
+  "icon": null,
+  "image": "/images/categories/e8c39a3e-3259-4305-9162-8fc7bb00ecf0.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "na-osnove-karkade-gibiskusa-1",
+  "name": "На основе каркаде (гибискуса)",
+  "parent": "fruktovyj-chaj",
+  "icon": null,
+  "image": "/images/categories/79ca6de2-1f9d-4800-9201-99a47f490a17.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "na-osnove-fruktov-i-yagod",
+  "name": "На основе фруктов и ягод",
+  "parent": "fruktovyj-chaj",
+  "icon": null,
+  "image": "/images/categories/350c76b5-074f-4d56-97c4-2e9f511336f3.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "mate",
+  "name": "Мате",
+  "parent": "mate-i-lapacho",
+  "icon": null,
+  "image": "/images/categories/ca1b1698-0dec-4c5a-9433-f04708059b2e.jpg",
+  "children": [
+   "argentina",
+   "paragvaj",
+   "braziliya",
+   "urugvaj"
+  ],
+  "loaded": true,
+  "originalPages": 7,
+  "description": ""
+ },
+ {
+  "slug": "lapacho",
+  "name": "Лапачо",
+  "parent": "mate-i-lapacho",
+  "icon": null,
+  "image": "/images/categories/5aa8f607-7ca4-45f6-bdec-e221c447d327.jpg",
+  "children": [],
+  "loaded": true,
+  "originalPages": 1,
+  "description": ""
+ },
+ {
+  "slug": "naturalnyj-rojbush-i-hanibush",
+  "name": "naturalnyj-rojbush-i-hanibush",
+  "parent": "rojbush-hanibush-i-karkade-gibiskus",
+  "icon": null,
+  "image": "/images/categories/da67d250-4394-445c-bccd-f8c9058a3728.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "aromatizirovannyj-rojbush-i-hanibush",
+  "name": "Ароматизированный ройбуш и ханибуш",
+  "parent": "rojbush-hanibush-i-karkade-gibiskus",
+  "icon": null,
+  "image": "/images/categories/1ea33a9e-5e6b-4fa8-b91e-b4725a7a9095.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "karkade-gibiskus",
+  "name": "Каркаде (гибискус)",
+  "parent": "rojbush-hanibush-i-karkade-gibiskus",
+  "icon": null,
+  "image": "/images/categories/20e1fdb5-ad64-4949-8134-f5a3a6d8fbac.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "naturalnyj-svyazannyj-cha",
+  "name": "Натуральный связанный чай",
+  "parent": "svyazannyj-chaj",
+  "icon": null,
+  "image": "/images/categories/1_exN00Gf.400x400_Bb6F1f0.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "aromatizirovannyj-svyazannyj-chaj",
+  "name": "Ароматизированный связанный чай",
+  "parent": "svyazannyj-chaj",
+  "icon": null,
+  "image": "/images/categories/1_pkYtcct.400x400_CtYvnRd.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "sublimirovannyj-kofe",
+  "name": "sublimirovannyj-kofe",
+  "parent": "kofe",
+  "icon": null,
+  "image": "/images/categories/1_BVaT4kw.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "espresso-smesi",
+  "name": "espresso-smesi",
+  "parent": "kofe",
+  "icon": null,
+  "image": "/images/categories/56eef729-05ce-4cb5-a77a-7062b6c14e41.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "mono-sorta",
+  "name": "mono-sorta",
+  "parent": "kofe",
+  "icon": null,
+  "image": "/images/categories/d914c80b-d807-4028-a065-be318c77cf1f.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "speshelti-kofe",
+  "name": "speshelti-kofe",
+  "parent": "kofe",
+  "icon": null,
+  "image": "/images/categories/2a866c4b-f069-44e0-ad3e-8a259f396767.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "filtr-kofe",
+  "name": "filtr-kofe",
+  "parent": "kofe",
+  "icon": null,
+  "image": "/images/categories/4299c6f3-c07b-4ebc-859c-191b94ef4f61.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "aromatizirovannyj-kofe",
+  "name": "aromatizirovannyj-kofe",
+  "parent": "kofe",
+  "icon": null,
+  "image": "/images/categories/25db25e8-cfdf-42de-a788-f45c0d1b3494.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "zelenyj-kofe",
+  "name": "zelenyj-kofe",
+  "parent": "kofe",
+  "icon": null,
+  "image": "/images/categories/cb0204db-6a47-46a1-b8d3-1d55a89d912b.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "kofe-v-drip-paketah",
+  "name": "kofe-v-drip-paketah",
+  "parent": "kofe",
+  "icon": null,
+  "image": "/images/categories/f8bb57ea-69c7-403e-b653-b964a062ab87.png",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "goryachij-shokolad",
+  "name": "Горячий шоколад",
+  "parent": "kofe",
+  "icon": null,
+  "image": "/images/categories/1_vAaBlQ8.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "espresso-smesi-v-zernah",
+  "name": "Эспрессо смеси в зернах",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "vetnam-1",
+  "name": "Вьетнам",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "barline",
+  "name": "barline",
+  "parent": "siropy-i-toppingi",
+  "icon": null,
+  "image": "/images/categories/barline.png",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "siropy-barline",
+  "name": "Сиропы Barline",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "sahar",
+  "name": "Сахар",
+  "parent": "sladosti",
+  "icon": null,
+  "image": "/images/categories/236610ab-4d2f-44c8-8de6-1cd702b39ae0.jpg",
+  "children": [
+   "sahar-ledencovyj-na-palochke"
+  ],
+  "loaded": true,
+  "originalPages": 1,
+  "description": ""
+ },
+ {
+  "slug": "dlya-chaya-i-kofe",
+  "name": "dlya-chaya-i-kofe",
+  "parent": "posuda-i-aksessuary",
+  "icon": null,
+  "image": "/images/categories/a7e23e7c-f469-4045-a5d4-d2112543f2bb.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "dlya-servirovki",
+  "name": "dlya-servirovki",
+  "parent": "posuda-i-aksessuary",
+  "icon": null,
+  "image": "/images/categories/7b70bbcc-aa58-44a2-96d9-a8dd1dcba37b.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "podstavki",
+  "name": "podstavki",
+  "parent": "posuda-i-aksessuary",
+  "icon": null,
+  "image": "/images/categories/39e616d8-d859-4924-8407-d78c16e068be.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "instrumenty-pribory-i-aksessuary",
+  "name": "instrumenty-pribory-i-aksessuary",
+  "parent": "posuda-i-aksessuary",
+  "icon": null,
+  "image": "/images/categories/1_QJhHvmb.png",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "upakovka",
+  "name": "upakovka",
+  "parent": "posuda-i-aksessuary",
+  "icon": null,
+  "image": "/images/categories/P-9_EvcM4YH.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "vstavki-na-kolbu",
+  "name": "Вставки на колбу",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "bombili",
+  "name": "Бомбильи",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "pruzhinki-dlya-chajnikov-bez-kolby",
+  "name": "Пружинки для чайников без колбы",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "bokayi-pialy-i-stakanchiki-iz-stekla",
+  "name": "Бокалы, пиалы и стаканчики из стекла",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "kryshki-dlia-chajnikov",
+  "name": "Крышки для чайников",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "klipsy-dlya-paketov",
+  "name": "Клипсы для пакетов",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "pialy-i-stakanchiki-iz-keramiki",
+  "name": "Пиалы и стаканчики из керамики",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "aksessuary-dlya-puera",
+  "name": "Аксессуары для пуэра",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "kitajskij-aromatizirovannyj-ulun",
+  "name": "Китайский ароматизированный улун",
+  "parent": "aromatizirovannyj-ulun",
+  "icon": null,
+  "image": "/images/categories/kitay-flag.100x100_fQDyfTi.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "tajvanskij-aromatizirovannyj-ulun",
+  "name": "tajvanskij-aromatizirovannyj-ulun",
+  "parent": "aromatizirovannyj-ulun",
+  "icon": null,
+  "image": "/images/categories/250px-Flag_of_the_Republic_of_China.svg_5.100x100_9upysJG.png",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "kitajskij-ulun",
+  "name": "Китайский улун",
+  "parent": "naturalnyj-ulun",
+  "icon": null,
+  "image": "/images/categories/Flag_of_the_Peoples_Republic_of_China.svg_5.png",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "tajvanskij-ulun",
+  "name": "tajvanskij-ulun",
+  "parent": "naturalnyj-ulun",
+  "icon": null,
+  "image": "/images/categories/250px-Flag_of_the_Republic_of_China.svg_5.png",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "vetnamskij-ulun",
+  "name": "vetnamskij-ulun",
+  "parent": "naturalnyj-ulun",
+  "icon": null,
+  "image": "/images/categories/___.png",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "yaponskij-ulun",
+  "name": "yaponskij-ulun",
+  "parent": "naturalnyj-ulun",
+  "icon": null,
+  "image": "/images/categories/db59dcad-f985-4dce-999a-0b6b352b9b50.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "kitajskij-temnyj-ulun",
+  "name": "Китайский темный улун",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "tajvanskij-svetlyj-ulun",
+  "name": "Тайваньский светлый улун",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "sahar-ledencovyj-na-palochke",
+  "name": "Сахар леденцовый на палочке",
+  "parent": "sahar",
+  "icon": null,
+  "image": "/images/categories/_____.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "naturalnyj-krasnyj-chaj",
+  "name": "Натуральный красный чай",
+  "parent": "krasnyj-kitajskij-chaj",
+  "icon": null,
+  "image": "/images/categories/a1812aa6-4386-4dec-92ed-9ca8ddd4259a.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "aromatizirovannyj-krasnyj-chaj",
+  "name": "Ароматизированный красный чай",
+  "parent": "krasnyj-kitajskij-chaj",
+  "icon": null,
+  "image": "/images/categories/27fcf94f-13e5-46f4-9b4c-d940e56f580d.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "pressovannyj-krasnyj-chaj",
+  "name": "pressovannyj-krasnyj-chaj",
+  "parent": "krasnyj-kitajskij-chaj",
+  "icon": null,
+  "image": "/images/categories/799eb6fa-e55d-447e-9fbc-7ea887db1e04.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "smola-krasnogo-chaya",
+  "name": "smola-krasnogo-chaya",
+  "parent": "krasnyj-kitajskij-chaj",
+  "icon": null,
+  "image": "/images/categories/c470aaa5-a345-454b-b975-740071e83dcd.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "argentina",
+  "name": "argentina",
+  "parent": "mate",
+  "icon": null,
+  "image": "/images/categories/ea672faa-912f-4cc1-9e49-77a7b6f36378.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "paragvaj",
+  "name": "paragvaj",
+  "parent": "mate",
+  "icon": null,
+  "image": "/images/categories/03b6fa6b-acce-4570-b431-93f505f677f2.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "braziliya",
+  "name": "braziliya",
+  "parent": "mate",
+  "icon": null,
+  "image": "/images/categories/b7be201a-9d5d-4951-8046-8285a192afa1.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "urugvaj",
+  "name": "urugvaj",
+  "parent": "mate",
+  "icon": null,
+  "image": "/images/categories/68451fb9-7f28-4c49-a3e7-f5866ad5244f.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "kraus",
+  "name": "Kraus",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "cbse",
+  "name": "CBSe",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "amanda",
+  "name": "Amanda",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "colon",
+  "name": "Colon",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "rosamonte",
+  "name": "Rosamonte",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "pipore",
+  "name": "Pipore",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "shu-puer-chernyj-presovannij",
+  "name": "Прессованный Шу пуэр (черный)",
+  "parent": "shu-puer-chernyj",
+  "icon": null,
+  "image": "/images/categories/0b8a7ab0-613b-4167-b04c-9df15398d796.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "shu-puer-chernyj-rossipnoj",
+  "name": "Рассыпной Шу пуэр (черный)",
+  "parent": "shu-puer-chernyj",
+  "icon": null,
+  "image": "/images/categories/ecdb9d11-0a45-4283-af61-48ae30f29745.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "aromatizirovannyj-shu-puer",
+  "name": "Ароматизированный Шу пуэр (черный)",
+  "parent": "shu-puer-chernyj",
+  "icon": null,
+  "image": "/images/categories/0b09608f-7c80-47ad-968b-da5889ea8a16.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "shu-puer-chernyj-v-bambuke",
+  "name": "shu-puer-chernyj-v-bambuke",
+  "parent": "shu-puer-chernyj",
+  "icon": null,
+  "image": "/images/categories/7a6c2d01-2eac-450d-b122-b6b4a50c1fc5.png",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "shu-puer-chernyj-v-tabletkah",
+  "name": "Шу Пуэр (черный) в таблетках",
+  "parent": "shu-puer-chernyj",
+  "icon": null,
+  "image": "/images/categories/4fe37e88-49b6-4661-98ee-0c714f331daa.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "smola-shu-puera-chernyj",
+  "name": "smola-shu-puera-chernyj",
+  "parent": "shu-puer-chernyj",
+  "icon": null,
+  "image": "/images/categories/f3f02ba8-558d-48b5-972f-7fa232dc3e08.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "shen-puer-zelenyj-presovannij",
+  "name": "Прессованый Шен пуэр (зеленый)",
+  "parent": "shen-puer-zelenyj",
+  "icon": null,
+  "image": "/images/categories/d3de26d1-f9af-48f3-9fbb-5f4e1c183808.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "shen-puer-zelenyj-rassipnoj",
+  "name": "Рассыпной Шен пуэр (зеленый)",
+  "parent": "shen-puer-zelenyj",
+  "icon": null,
+  "image": "/images/categories/1bfe6ec1-7a1d-4983-98c3-d277cea65a55.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "shen-puer-zelenyj-v-bambuke",
+  "name": "shen-puer-zelenyj-v-bambuke",
+  "parent": "shen-puer-zelenyj",
+  "icon": null,
+  "image": "/images/categories/7a2ad0a9-7a01-470d-a087-381da19f2bde.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "shen-puer-zelenyj-v-tabletkah",
+  "name": "Шен Пуэр (зеленый) в таблетках",
+  "parent": "shen-puer-zelenyj",
+  "icon": null,
+  "image": "/images/categories/3d508af1-91dd-4d70-bc70-e8f670ee51f3.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "smola-shen-puera-zelenyj",
+  "name": "smola-shen-puera-zelenyj",
+  "parent": "shen-puer-zelenyj",
+  "icon": null,
+  "image": "/images/categories/c4ca5375-f7ba-465f-88ab-77f659e1cc06.jpg",
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "kitajskij-temnyj-aromatizirovannyj-ulun",
+  "name": "Китайский темный ароматизированный улун",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "tajvanskij-temnyj-ulun",
+  "name": "Тайваньский темный улун",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ },
+ {
+  "slug": "aromatizirovannyj-kofe-v-zernah",
+  "name": "Ароматизированный кофе в зернах",
+  "parent": null,
+  "icon": null,
+  "image": null,
+  "children": [],
+  "loaded": false,
+  "originalPages": null,
+  "description": ""
+ }
+]

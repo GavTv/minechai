@@ -1,0 +1,80 @@
+{
+  "recommended": [
+    "ganpauder-10",
+    "chaj-zhenshen-ulun",
+    "zemlyanichnyj-ulun-kitai",
+    "kofe-v-zernah-aromatizirovannyj-plombir",
+    "kofe-v-zyornah-aromatizirovannyj-bavarskij-shokolad",
+    "sencha-molochnaia",
+    "chaj-s-tumannoj-gori",
+    "chai-chyornyj-aromatizirovannyj-vanilnaya-klyukva"
+  ],
+  "sidebar": [
+    "krasnyj-chaj",
+    "kofe",
+    "chernyy_tea",
+    "sladosti",
+    "posuda-i-aksessuary",
+    "zelenyj-chaj",
+    "puer",
+    "ulun",
+    "belyj-chaj"
+  ],
+  "slides": [
+    {
+      "image": "/images/slider/6c1f5bc6-8d5a-4568-9db5-887830dfe7ef.jpg",
+      "href": "https://t.me/Teaboom",
+      "alt": "Подпишитесь на наш канал в Telegram и будьте в курсе!"
+    },
+    {
+      "image": "/images/slider/444021fe-808a-40ed-85e6-180a0cfa4feb.jpg",
+      "href": "/shipping/",
+      "alt": "Оформите заказ до 14:00 и получите доставку в вечернее время"
+    },
+    {
+      "image": "/images/slider/a4e8d923-2cce-484b-92e1-8e2b5e0ba429.jpg",
+      "href": "/shipping/#shipping_1",
+      "alt": "Бесплатная доставка при заказе на сумму 3500 рублей в пределах МКАДа"
+    },
+    {
+      "image": "/images/slider/13cde517-48b6-4838-b09f-4a698daaf2f7.jpg",
+      "href": "/shipping/#shipping_5",
+      "alt": "Самовывоз — бесплатно: Октябрьское Поле, Панфиловская, ул. Народного Ополчения, д. 47"
+    },
+    {
+      "image": "/images/slider/d9c03d25-9fd8-4523-b5b5-70cb89d68f01.jpg",
+      "href": "/search?q=габа",
+      "alt": "Оригинальный габа чай из Тайваня и Вьетнама"
+    },
+    {
+      "image": "/images/slider/7a15c3cb-57eb-401c-84cf-83940d653645.jpg",
+      "href": "/search?q=анчан",
+      "alt": "Анчан — синий чай из Таиланда. Хит сезона"
+    },
+    {
+      "image": "/images/slider/562b282e-f159-40fc-bd85-faf09d32cefc.jpg",
+      "href": "/category-matcha",
+      "alt": "Разноцветный матча чай и аксессуары. Хит сезона"
+    },
+    {
+      "image": "/images/slider/846aa3cf-9c20-420d-8e52-0048215674bb.jpg",
+      "href": "/search?q=ку цяо",
+      "alt": "Ку Цяо — гречишный чай. Хит сезона"
+    },
+    {
+      "image": "/images/slider/264c5d87-e78b-4e35-b715-24200162f312.jpg",
+      "href": "/category-posuda-i-aksessuary",
+      "alt": "Посуда и аксессуары"
+    },
+    {
+      "image": "/images/slider/ec49f785-97e3-4e12-a749-857c152250b0.jpg",
+      "href": "/category-kofe",
+      "alt": "Вкусный кофе"
+    },
+    {
+      "image": "/images/slider/2ab3713c-3d0a-4c08-8424-a8c78fbf838c.jpg",
+      "href": "/category-sladosti",
+      "alt": "Сладости"
+    }
+  ]
+}

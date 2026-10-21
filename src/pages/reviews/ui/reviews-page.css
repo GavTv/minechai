@@ -1,0 +1,26 @@
+.reviews-page__stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 30px;
+  margin: 0 0 20px;
+}
+
+.reviews-page__stats div {
+  display: flex;
+  gap: 6px;
+}
+
+.reviews-page__stats dd {
+  margin: 0;
+  color: var(--color-heading);
+  font-weight: 700;
+}
+
+.reviews-page__list {
+  display: grid;
+  gap: 14px;
+  max-width: 820px;
+  margin: 28px 0 0;
+  padding: 0;
+  list-style: none;
+}

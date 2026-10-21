@@ -1,0 +1,9 @@
+.info-page {
+  max-width: var(--measure);
+}
+
+.info-page__source {
+  margin-top: 48px;
+  color: var(--color-muted);
+  font-size: 14px;
+}

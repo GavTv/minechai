@@ -1,0 +1,14 @@
+.contact-form {
+  display: grid;
+  gap: 16px;
+  align-content: start;
+  max-width: 520px;
+}
+
+.contact-form__title {
+  margin: 0;
+}
+
+.contact-form > .button {
+  justify-self: start;
+}

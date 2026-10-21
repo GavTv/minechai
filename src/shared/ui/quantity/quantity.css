@@ -1,0 +1,38 @@
+.quantity {
+  display: inline-flex;
+  align-items: stretch;
+  height: 44px;
+  border: 0;
+  border-radius: 0;
+  background: var(--color-surface);
+  overflow: hidden;
+}
+
+.quantity__button {
+  display: grid;
+  place-items: center;
+  width: 40px;
+  border: 0;
+  background: none;
+  color: var(--color-heading);
+  cursor: pointer;
+}
+
+.quantity__button:hover:not(:disabled) {
+  background: var(--color-option);
+}
+
+.quantity__button:disabled {
+  color: var(--color-border-hover);
+  cursor: not-allowed;
+}
+
+.quantity__input {
+  width: 44px;
+  border: 0;
+  background: none;
+  color: var(--color-heading);
+  font: inherit;
+  font-weight: 700;
+  text-align: center;
+}
