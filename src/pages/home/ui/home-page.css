@@ -3,12 +3,14 @@
 }
 
 .home-page .hero-slider {
+  width: 100%;
   max-width: 1280px;
-  margin: 8px auto 0;
+  margin: 16px auto 0;
   padding: 0 clamp(16px, 3vw, 32px);
 }
 
 .home-page .hero-slider__viewport {
+  width: 100%;
   height: auto;
   overflow: hidden;
   aspect-ratio: 910 / 512;
@@ -17,15 +19,18 @@
 }
 
 .home-page .hero-slider__slide img {
+  width: 100%;
+  height: 100%;
   object-fit: contain;
+  object-position: center;
 }
 
 .home-page .hero-slider__arrow--prev {
-  left: clamp(20px, 3vw, 40px);
+  left: clamp(24px, 3vw, 48px);
 }
 
 .home-page .hero-slider__arrow--next {
-  right: clamp(20px, 3vw, 40px);
+  right: clamp(24px, 3vw, 48px);
 }
 
 .home-page .hero-slider .round-button {
@@ -39,8 +44,10 @@
 
 .home-rail {
   position: relative;
+  max-width: 1280px;
+  margin-inline: auto;
+  padding: 22px clamp(16px, 3vw, 32px) 28px;
   background: #fff;
-  padding: 22px 0 28px;
 }
 
 .strip-arrow {
@@ -77,11 +84,11 @@
 }
 
 .strip-arrow--prev {
-  left: 18px;
+  left: clamp(8px, 2vw, 16px);
 }
 
 .strip-arrow--next {
-  right: 18px;
+  right: clamp(8px, 2vw, 16px);
 }
 
 .home-rail .category-sidebar {
@@ -102,7 +109,7 @@
   display: flex;
   gap: 14px;
   margin: 0;
-  padding: 4px clamp(16px, 3vw, 32px) 12px;
+  padding: 4px 0 12px;
   overflow-x: auto;
   scroll-snap-type: x mandatory;
   scrollbar-width: none;
@@ -251,6 +258,11 @@
     object-fit: cover;
   }
 
+  .home-story {
+    width: 100%;
+    border-radius: 0;
+  }
+
   .home-posters {
     margin-top: 36px;
     padding: 28px 0 36px;
@@ -327,8 +339,12 @@
   position: relative;
   display: grid;
   align-items: end;
+  width: min(calc(100% - 2 * clamp(16px, 3vw, 32px)), calc(1280px - 64px));
+  max-width: none;
   min-height: clamp(220px, 36vh, 420px);
+  margin-inline: auto;
   overflow: hidden;
+  border-radius: 16px;
   color: #fff;
   text-decoration: none;
 }
