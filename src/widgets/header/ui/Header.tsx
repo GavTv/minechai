@@ -56,9 +56,10 @@ export function Header() {
 
   return (
     <header className="header" ref={headerRef}>
-      <div className="header__bar">
-        <div className="container header__bar-inner">
-          <button className="header__icon-button header__burger" type="button" aria-label="Открыть меню" onClick={() => setMenuOpen(true)}>
+      <div className="container header__bar">
+        <div className="header__shell">
+          <div className="header__bar-inner">
+            <button className="header__icon-button header__burger" type="button" aria-label="Открыть меню" onClick={() => setMenuOpen(true)}>
             <Icon name="menu" />
           </button>
 
@@ -109,13 +110,12 @@ export function Header() {
             </button>
           </div>
         </div>
-        <div className="header__mobile-search container">
+        <div className="header__mobile-search">
           <SearchForm />
         </div>
-      </div>
-      <div className="header__search-panel" hidden={!searchOpen}>
-        <div className="container">
+        <div className="header__search-panel" hidden={!searchOpen}>
           <SearchForm onDone={() => setSearchOpen(false)} />
+        </div>
         </div>
       </div>
 

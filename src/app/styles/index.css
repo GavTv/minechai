@@ -11,7 +11,7 @@
   --color-success: #1d6b34;
   --color-link: #111111;
   --color-focus: #111111;
-  --color-page: #ffffff;
+  --color-page: #f4f4f4;
   --color-surface: #ffffff;
   --color-ivory: #f6f6f6;
   --color-badge: #f5d730;
@@ -20,7 +20,7 @@
   --color-border: #ddd4c4;
   --color-border-light: #e6dfd1;
   --color-border-hover: #c9bfae;
-  --radius: 0;
+  --radius: 16px;
   --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
   --ease-in-out: cubic-bezier(0.76, 0, 0.24, 1);
   --t-press: 140ms;
@@ -184,6 +184,7 @@ textarea {
   top: 8px;
   left: 8px;
   padding: 8px 16px;
+  border-radius: 12px;
   background: var(--color-dark);
   color: #fff;
   transform: translateY(-200%);

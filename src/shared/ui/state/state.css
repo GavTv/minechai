@@ -2,7 +2,9 @@
   display: grid;
   justify-items: center;
   gap: 12px;
+  overflow: hidden;
   padding: 48px 20px;
+  border-radius: var(--radius);
   background: var(--color-surface);
   text-align: center;
 }
@@ -28,6 +30,7 @@
   align-items: flex-start;
   margin: 20px 0;
   padding: 16px 18px;
+  border-radius: var(--radius);
   background: var(--color-surface);
   color: var(--color-heading);
   font-size: 15px;

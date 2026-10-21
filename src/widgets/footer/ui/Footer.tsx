@@ -5,8 +5,9 @@ import './footer.css';
 
 export function Footer() {
   return (
+    <div className="container">
     <footer className="footer">
-      <div className="container footer__grid">
+      <div className="footer__grid">
         <section className="footer__column" aria-labelledby="footer-contacts">
           <h2 className="footer__title" id="footer-contacts">Контакты</h2>
           <dl className="footer__contacts">
@@ -46,7 +47,7 @@ export function Footer() {
         ))}
       </div>
       <div className="footer__bottom">
-        <div className="container footer__bottom-inner">
+        <div className="footer__bottom-inner">
           <p>© Все права защищены, <Link to="/">Teaboom.ru</Link></p>
           <p className="footer__note">
             Локальная демонстрационная копия публичной части сайта. Заказы и оплата работают только на{' '}
@@ -55,5 +56,6 @@ export function Footer() {
         </div>
       </div>
     </footer>
+    </div>
   );
 }

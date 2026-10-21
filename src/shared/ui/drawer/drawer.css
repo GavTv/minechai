@@ -32,10 +32,12 @@
 
 .drawer--right .drawer__panel {
   right: 0;
+  border-radius: var(--radius) 0 0 var(--radius);
 }
 
 .drawer--left .drawer__panel {
   left: 0;
+  border-radius: 0 var(--radius) var(--radius) 0;
   animation-name: drawer-in-left;
 }
 

@@ -8,7 +8,9 @@
 .checkout-page__order {
   display: grid;
   gap: 12px;
+  overflow: hidden;
   padding: 24px;
+  border-radius: var(--radius);
   background: var(--color-surface);
 }
 

@@ -98,7 +98,9 @@ export function HomePage() {
         </span>
       </Link>
       <div className="container">
-        <FeaturesStrip />
+        <div className="home-features">
+          <FeaturesStrip />
+        </div>
       </div>
       <section className="home-posters" aria-labelledby="recommended-title">
         <div className="container">

@@ -57,7 +57,9 @@
   .filter-panel__body {
     display: none;
     margin-top: 14px;
+    overflow: hidden;
     padding: 18px;
+    border-radius: var(--radius);
     background: var(--color-surface);
   }
 

@@ -1,4 +1,6 @@
 .category-sidebar {
+  overflow: hidden;
+  border-radius: var(--radius);
   background: var(--color-surface);
 }
 

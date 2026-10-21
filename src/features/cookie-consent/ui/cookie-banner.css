@@ -11,6 +11,8 @@
   max-width: 1000px;
   margin: 0 auto;
   padding: 20px 22px;
+  overflow: hidden;
+  border-radius: var(--radius);
   background: var(--color-surface);
   box-shadow: 0 16px 40px rgb(26 23 20 / 16%);
   font-size: 14px;
